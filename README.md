@@ -1,4 +1,4 @@
-# [2020](https://github.com/whhhite/skr_university_learning_record/blob/master/iot/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95.md)下半年学习周报/日报
+# 2020下半年学习周报/日报
 
 ## 这是什么?
 
@@ -160,14 +160,24 @@
 
 <details>
 <summary>WEEK 21（2020.10.5-2020.10.11）：课比较多随便看了点东西</summary>
-
 </details>
 
 <details>
 <summary>WEEK 22（2020.10.12-2020.10.18）：工控安全相关</summary>
 
 - [x] 看了点vxworks的资料
-</details>
+
+- [x] 安全客2020季刊/第三期/工控安全部分
+
+  > 参考资料:  https://static.anquanke.com/download/b/security-geek-2020-q3.pdf 
+
+  Q: 为什么越来越重视工控安全
+
+  A: 工控设备的传统通信方式(无线电和电缆)转向基于IP的系统(接入互联网).随着接入互联网的设备越来越多,逐渐的构成了工业互联网体系.但是其中的设备大多更新迭代困难,所以会存在很多安全缺陷,一旦出现安全事件,影响巨大.
+
+  > 后续的关于工控文章(包括协议)对于本人现阶段来说有点超前,先在此mark,等以后学习了更多之后再补充. 
+
+  </details>
 
 <details>
 <summary>WEEK 23（2020.10.19-2020.10.25）：复现了vxworks的题目 以及 ByteCTF </summary>
@@ -181,8 +191,16 @@
 
 - [x] leetcode: 
 	因为要差不多开始准备寒假实习, 刷一下算法
+	
+	* 11
+	* 104
+	* 144
+	* 1207
+	* 129
+	
 - [x] 报了个算法 体验班简单学习了一下(链表,树,以及递归) 
-</details>
+
+  </details>
 
 <details>
 <summary>2020.10.30 回深圳 & leetcode </summary>
@@ -222,21 +240,21 @@
 </details>
 
 <details>
-<summary>2020.11.4STL源码解析 &  </summary>
+<summary>2020.11.4STL源码解析 &  leetcode </summary>
 
 - [x] STL源码解析 第二章
 - [x] leetcode 57
 </details>
 
 <details>
-<summary>2020.11.5STL源码解析 &  </summary>
+<summary>2020.11.5STL源码解析 &  leetcode  </summary>
 
 - [x] STL源码解析 第三章
 - [x] leetcode 127
 </details>
 
 <details>
-<summary>2020.11.6STL源码解析 &  </summary>
+<summary>2020.11.6STL源码解析 &   leetcode</summary>
 
 - [x] STL源码解析 第四章
 - [x] leetcode 1356
