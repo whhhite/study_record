@@ -172,7 +172,7 @@
 <details>
 <summary>WEEK 23（2020.10.19-2020.10.25）：复现了vxworks的题目 以及 ByteCTF </summary>
 
-- [x] 复现了NOE 771固件以及分析
+- [x] [复现了NOE 771固件以及分析](https://github.com/whhhite/skr_university_learning_record/blob/master/iot/%E5%85%B3%E4%BA%8E%E6%96%BD%E8%80%90%E5%BE%B7NOE%20771%E5%9B%BA%E4%BB%B6%E7%9A%84%E5%88%86%E6%9E%90.md)
 - [x] 打了ByteCTF的两道题目
 </details>
 
