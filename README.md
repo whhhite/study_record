@@ -354,13 +354,16 @@
     * emplace_back直接在尾部创建
     
   * 构图: 虚拟节点
-      
+    
       </details>
 
 <details>
 <summary>2020.11.6 STL源码解析 &   leetcode</summary>
 
 - [x] STL源码解析 第三章 上
+
+  * 迭代器最重要的编程工作就是堆operator * 和operator->进行重载
+  * 偏特化
 
 - [x] leetcode 1356 根据数字二进制下 1 的数目排序
 
@@ -374,6 +377,6 @@
 <summary>2020.11.7 github整理笔记& 简历编写  </summary>
 
 - [x] 院运会混志愿时
-- [x] 简历编写
+- [x] [简历](https://github.com/whhhite/study_record/blob/main/简历.md)编写
 - [x] github整理笔记 
 </details>
