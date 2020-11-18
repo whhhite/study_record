@@ -100,12 +100,12 @@
 <details>
 <summary>WEEK 10（2020.7.20-2020.7.26)：csapp学习以及三个lab</summary>
 
-- [ ] csapp: 3~5章
+- [x] csapp: 3~5章
   * [第三章](https://github.com/whhhite/skr_university_learning_record/tree/master/csapp/%E7%AC%AC%E4%B8%89%E7%AB%A0) 程序的机器级表示
   * [第四章](https://github.com/whhhite/skr_university_learning_record/tree/master/csapp/%E7%AC%AC%E4%B8%89%E7%AB%A0) 处理器体系结构
   * [第五章](https://github.com/whhhite/skr_university_learning_record/tree/master/csapp/%E7%AC%AC%E4%B8%89%E7%AB%A0) 优化程序性能
   * [第六章](https://github.com/whhhite/skr_university_learning_record/tree/master/csapp/%E7%AC%AC%E5%85%AD%E7%AB%A0) 存储器层次结构
-- [ ] lab: lab3~5
+- [x] lab: lab3~5
   * [attack lab](https://github.com/whhhite/skr_university_learning_record/blob/master/csapp/lab/attack.md) Code injection && ROP
   * [arch lab](https://github.com/whhhite/skr_university_learning_record/blob/master/csapp/lab/archlab.md) 
   * [cache lab](https://github.com/whhhite/skr_university_learning_record/blob/master/csapp/lab/cache.md)
@@ -380,3 +380,36 @@
 - [x] [简历](https://github.com/whhhite/study_record/blob/main/简历.md)编写
 - [x] github整理笔记 
 </details>
+
+<details>
+<summary>2020.11.8 Byte Open Day  </summary>
+
+- [x] 参观了一下字节跳动深圳,投了个简历,希望有机会实习
+</details>
+
+<details>
+<summary>2020.11.9~13 答辩以及考试  </summary>
+
+</details>
+
+<details>
+<summary>2020.11.14~16 身体不舒服回家休养了 </summary>
+
+- [x] leetcode 406 根据身高重建队列
+
+  * sort
+
+</details>
+
+<details>
+<summary>2020.11.17 leetcode & 找彭博士聊了聊学习方向
+
+- [x] leetcode 1030
+
+  * sort,以及lambda的小细节
+  
+- [x] 就研究方向请教了一下彭博士
+
+  * 准备往虚拟化或者浏览器发展了.
+  
+  </details>
