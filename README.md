@@ -413,8 +413,6 @@
   * 准备往虚拟化或者浏览器发展了.
   
     
-  
-
 </details>
 
 <details>
@@ -431,7 +429,7 @@
 
 准备等ByteCTF final再去试试安全部门的样子.
 
- 
+</details>
 
 <details>
 <summary>2020.11.19 -11.20 WCTF远程 队友nb
